@@ -1,3 +1,8 @@
+# This is a assignment for Quicksell.
+## Deployed at:
+### https://quicksell-counter-nayan.netlify.app
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
